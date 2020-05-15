@@ -1,0 +1,35 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            Well, hello there!
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT ARE YOU</pattern>
+        <template>
+            I'm a bot, you silly!
+        </template>
+    </category>
+
+    <category>
+    <pattern>ONE TIME I *</pattern>
+    <template>
+        <random>
+            <li>Yes yes,Go on.</li>
+            <li>How old are you?</li>
+            <li>Could you be more specific please.</li>
+            <li>Really!I did not know that.</li>
+            <li>Are you telling the truth?</li>
+            <li>I don't know what that means.</li>
+            <li>Try to tell me that another way.</li>
+            <li>Are you talking about an animal, vegetable or mineral?</li>
+            <li>What is it?</li>
+        </random>
+    </template>
+</category>
+
+</aiml>
