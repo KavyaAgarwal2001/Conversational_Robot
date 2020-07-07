@@ -5,7 +5,8 @@ Robotics club Summer Project
 >
 > - AIML ChatBot
 > - Word Embeddings
-> - Speech Recognition(SpeechToText)
+> - Data Augmentation
+> - Data Deneration
 > - Response Generation
 > - TextToSpeech
 ### Reading Assignments/Cources
