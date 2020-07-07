@@ -5,7 +5,9 @@ Robotics club Summer Project
 >
 > - AIML ChatBot
 > - Word Embeddings
-> - Speech Recognition
+> - Speech Recognition(SpeechToText)
+> - Response Generation
+> - TextToSpeech
 ### Reading Assignments/Cources
 > - Neural Networks and Deep Learning
 > - Sequence Models
