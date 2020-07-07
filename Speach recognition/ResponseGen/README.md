@@ -7,6 +7,7 @@ Thus is required an automated algorithm that can read through the text documents
 
 
 ## Topic modeling
+![topicawareness](https://user-images.githubusercontent.com/62256302/86842392-bf116c80-c0c2-11ea-97ad-fbcdb204e69f.jpeg)
 
 Topic modeling is a type of statistical modeling for discovering the abstract “topics” that occur in a collection of documents.
 
