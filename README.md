@@ -20,6 +20,7 @@ The main aim is to build a conversational ChatBot that can take audio input ,con
 > 1. Seq2Seq Context aware Attention model
 > 2. LDA model to extract topics
 > 3. Seq2Seq Joint Attention model using LDA 
+>    ![attention](https://user-images.githubusercontent.com/62256302/86843507-48756e80-c0c4-11ea-9bc0-11e10584a14c.jpeg)
 6. TextToSpeech
 > - used gtts API to convert input string to Audio
 7. Integration
