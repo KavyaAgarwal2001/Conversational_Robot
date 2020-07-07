@@ -13,4 +13,8 @@ Robotics club Summer Project
 > - Neural Networks and Deep Learning
 > - Sequence Models
 > - NLP with TensorFlow
+## Objective And Goal
+The motive is to build an interactive robot that can be scoped to handle some real life problems ! The goal is to offer a well trained efficient model which can deliver immediate actions.
+The main aim is to build a conversational ChatBot that can take audio input ,convert the input audio into text ,generate meaningful response and then convert that text response into speech.
+
 
